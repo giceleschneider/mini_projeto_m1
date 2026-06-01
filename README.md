@@ -12,7 +12,7 @@ O projeto realiza os seguintes tratamentos:
 - **Tratamento de Dimensões**: Preenche dimensões vazias (comprimento, altura, largura e peso) com a média da categoria. Produtos sem dados de categoria são removidos
 
 ### Reflexão Teórica sobre Machine Learning
-A limpeza e preparação correta dos dados é fundamental para o desenvolvimento de modelos de Inteligência Artificial robustos e confiáveis. Quando aplicamos uma lógica de programação rigorosa na remoção de valores ausentes, normalização de formatos e tratamento de outliers, garantimos que o modelo treine sobre dados de qualidade, reduzindo significativamente o risco de overfitting. Além disso, a limpeza deliberada de dados diminui vieses introduzidos por registros inconsistentes ou mal preenchidos, que poderiam levar a predições enviesadas e injustas.
+A limpeza e preparação correta dos dados é fundamental para o desenvolvimento de modelos de Inteligência Artificial robustos e confiáveis. Quando aplicamos uma lógica de programação rigorosa na remoção de valores ausentes, normalização de formatos e tratamento de outliers, garantimos que o modelo treine sobre dados de qualidade, reduzindo significativamente o risco de overfitting. Além disso, a limpeza correta de dados diminui registros inconsistentes ou mal preenchidos, que poderiam levar a estimativas incorretas.
 
 ## Requisitos
 - Python 3.14
