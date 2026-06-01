@@ -1,7 +1,7 @@
 # Mini Projeto de Processamento de Dados Olist
 
 ## Visão Geral
-Este projeto faz o processamento de dados de produtos e ordens do Olist, realizando validações e tratamentos em registros CSV.
+Mini projeto avaliativo do curso Machine Learning e Visão Computacional da SCTEC, referente à matéria Fundamentos de Programação, Dados e Machine Learning. Este projeto faz o processamento de dados de produtos e ordens de vendas, realizando validações e tratamentos em registros CSV.
 
 ## Processamento de Dados
 O projeto realiza os seguintes tratamentos:
